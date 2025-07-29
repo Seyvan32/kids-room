@@ -1,0 +1,24 @@
+{
+  "stories": [
+    {
+      "id": 0,
+      "title": "Kids Room Project",
+      "storyText": "One day a man sent a test project to wins academy. The test project was about a kid in a kid's room interacting with stuf"
+    },
+    {
+      "id": 1,
+      "title": "Musical Teddy",
+      "storyText": "Musical Teddy is an interactable object which plays music for kids. one for sad kids and another for calm ones, to include different tastes."
+    },
+    {
+      "id": 2,
+      "title": "Antique Lamp",
+      "storyText": "Antique Lamp is a interactable object. It lights up in white when calm kids turn It on, but It will be blue for sad kids."
+    },
+    {
+      "id": 3,
+      "title": "Story Terminal",
+      "storyText": "You're using a story terminal right now..."
+    }
+  ]
+}
